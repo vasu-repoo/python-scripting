@@ -4,7 +4,7 @@ Learning Python for automation, system scripting,
 and DevOps tooling.
 
 ## Topics
-- Basics — variables, loops, functions
+- Basics — variables, loops, functions, programs
 - File operations — read, write, CSV, JSON
 - OS and system — env vars, disk, shell commands
 - Automation — file organizer, backup scripts

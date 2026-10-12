@@ -1,0 +1,1 @@
+**The function call round(3.5) rounds up to 4, while round(2.5) rounds down to 2. For halfway numbers that end with .5, the number is rounded to the nearest even integer. This is called banker’s rounding.**

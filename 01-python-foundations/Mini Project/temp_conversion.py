@@ -1,8 +1,8 @@
 print('''
 *****************************
-  TEMPERATURE CONVERTER
+    TEMPERATURE CONVERTER
 *****************************''')
-
+# for user 
 print("""
 1. Celsius to Fahrenheit
 2. Fahrenheit to Celsius
@@ -12,7 +12,7 @@ print("""
 6. Kelvin to Fahrenheit
 7. Exit
 """)
-
+# reattemting process
 while True:
     try:
         choice = int(input("Enter your choice: "))

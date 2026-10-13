@@ -1,7 +1,7 @@
 print("""
-***********************
+************************
     WEIGHT CONVERTER
-***********************
+************************
 """)
 
 print("""
@@ -13,7 +13,7 @@ print("""
 6. Ounces to Kilograms
 7. Exit
 """)
-
+# reattemting process
 while True:
     try:
         choice = int(input("Enter your choice: "))

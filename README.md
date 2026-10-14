@@ -13,4 +13,4 @@ and DevOps tooling.
 
 ## Goal
 Build scripting skills for MLH Production Engineering
-and DevOps workflows.
+and DevOps workflows efficiently.

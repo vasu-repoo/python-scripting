@@ -14,3 +14,8 @@ and DevOps tooling.
 ## Goal
 Build scripting skills for MLH Production Engineering
 and DevOps workflows efficiently.
+
+## 📂 Repository Structure
+
+The programs are organized into folders by topic for easy navigation.
+

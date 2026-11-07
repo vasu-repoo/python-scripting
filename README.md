@@ -17,5 +17,5 @@ and DevOps workflows efficiently.
 
 ## 📂 Repository Structure
 
-The programs are organized into folders by topic for easy navigation.
+The programs are organized into folders by topic for easy navigation and for work too.
 
